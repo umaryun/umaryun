@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGb11hSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Umar Yunusa</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
-<img align="right" alt="Coding" width="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gifA)">
+<img align="right" alt="Coding" width="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umaryun&label=Profile%20views&color=0e75b6&style=flat" alt="umaryun" /> </p>
 
